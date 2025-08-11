@@ -9,8 +9,8 @@ This project is a **custom-built Convolutional Neural Network (CNN)** model for 
 - 📦 **Dataset:** Custom object detection dataset (cropped from COCO annotations)
 - 🎯 **Classes:** 26 real-world object categories
 - 🧠 **Model:** Custom CNN (no pretrained models used)
-- 🧪 **Accuracy:** Final Test Accuracy: **93.34%**
-- 📊 **Precision:** 93.41% | **Recall:** 93.34% | **F1 Score:** 93.23%
+- 🧪 **Accuracy:** Final Test Accuracy: **93.09%**
+- 📊 **Precision:** 92.96% | **Recall:** 93.09% | **F1 Score:** 92.96%
 - 🔮 **Predictions:** Supports both individual image predictions and batch predictions from folders
 
 ---
@@ -74,4 +74,5 @@ Use object_detection_final_model.h5 for inference without retraining.
 👤 Author
 Rushikesh Kadam
 Final Year BTech | AI & Data Science
+
 Project: Real-World Multi-Class Object Classification using CNN
