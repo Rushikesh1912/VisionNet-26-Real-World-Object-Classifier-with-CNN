@@ -75,4 +75,5 @@ Use object_detection_final_model.h5 for inference without retraining.
 Rushikesh Kadam
 Final Year BTech | AI & Data Science
 
-Project: Real-World Multi-Class Object Classification using CNN
+Project: VisionNet-26: Real-World Object Classifier with CNN
+
